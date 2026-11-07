@@ -1,6 +1,6 @@
 // 현장에서 인터넷 없이 실행되도록 앱 파일을 저장한다. 두 값은 빌드할 때 채워진다.
-const VERSION = "0048619edbdc";
-const FILES = ["./","./assets/index-BamWRVPc.css","./assets/index-F_LrvFh3.js","./icon-192.png","./icon-512.png","./icon-maskable-512.png","./index.html","./manifest.webmanifest"];
+const VERSION = "69ec782ef01c";
+const FILES = ["./","./assets/index-BamWRVPc.css","./assets/index-TLL2LL88.js","./icon-192.png","./icon-512.png","./icon-maskable-512.png","./index.html","./manifest.webmanifest"];
 const CACHE = `catenary-${VERSION}`;
 
 self.addEventListener("install", (event) => {
